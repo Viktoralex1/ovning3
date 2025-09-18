@@ -9,3 +9,4 @@ This is a small Python program that prints Pascal's triangle.
 [x]hejhopp liten snopp
 [viktor]hej!
 [hejviktornoob]
+[hejdavidking]
