@@ -8,3 +8,5 @@ This is a small Python program that prints Pascal's triangle.
 # detta är kod för en kurs på yrgo
 [x]hejhopp liten snopp
 [viktor]hej!
+[hejviktornoob]
+[hejdavidking]
